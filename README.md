@@ -1,5 +1,4 @@
-# Implementation of a thread scheduler in user-space, taking the form of a 
-shared library
+# Implementation of a thread scheduler in user-space, taking the form of a shared library
 
 This dynamic library provides a common interface to all threads that use it
 and have to be planned. The exported functions:
